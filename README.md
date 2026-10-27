@@ -44,8 +44,12 @@ Local Storage: [e.g., Shared Preferences / Hive]
 
 
 ## 📸 Screenshots (TBA)
-<img width="375" height="812" alt="1  Halaman depan" src="https://github.com/user-attachments/assets/8738f948-e0a3-4aa9-8f7b-f73081b1fd72" />
-<img width="375" height="812" alt="2  Halaman awal" src="https://github.com/user-attachments/assets/d14a1861-eded-4b3e-b0eb-43b09926afa3" />
+<img width="338" height="579" alt="image" src="https://github.com/user-attachments/assets/15db9c7c-1f14-49eb-b859-cd21bb02d44b" />
+<img width="351" height="568" alt="image" src="https://github.com/user-attachments/assets/aafe7403-67b0-4fce-8faa-44a4f3716380" />
+<img width="295" height="469" alt="image" src="https://github.com/user-attachments/assets/9e131a47-3795-4271-b6cb-35f37b3522f5" />
+<img width="591" height="469" alt="image" src="https://github.com/user-attachments/assets/f2b0edf2-dfbf-4e92-a420-7ef498430854" />
+<img width="292" height="466" alt="image" src="https://github.com/user-attachments/assets/5945057d-8fca-4ef6-8ecc-378633372b8b" />
+<img width="293" height="473" alt="image" src="https://github.com/user-attachments/assets/48a3ff79-47e3-4bf6-b7e2-fe4754de4314" />
 
 
 
