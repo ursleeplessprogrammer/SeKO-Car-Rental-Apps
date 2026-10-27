@@ -4,7 +4,7 @@ SeKO (Sewa Kendaraan Online) is a mobile application built with Flutter and Dart
 
 ## ✨ About the Project
 
-This project was developed by me and my acquitance as part of a technopreneurship initiative back on 2023, which requires ideas capable of supporting potential business processes that could ultimately have a broad impact.
+This project was developed by my acquitance and myself as part of a technopreneurship initiative back on 2023, which requires ideas capable of supporting potential business processes that could ultimately have a broad impact.
 
 
 ## 🚀 Features
