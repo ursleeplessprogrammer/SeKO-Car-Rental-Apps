@@ -70,7 +70,6 @@ Installation
 
    ```bash
    flutter run
-   
 
 ## 📂 Project Structure
 
