@@ -87,24 +87,15 @@ An IDE (Android Studio, VS Code, or IntelliJ)
 ## 📂 Project Structure
 
      lib/
-     
      ├── core/           # Constants, themes, and shared utilities
-     
      ├── data/           # Models, repositories, and data providers
-     
      ├── providers/      # State management logic
-     
      ├── ui/
-     
      │   ├── screens/    # Main application screens (Home, Login, etc.)
-     
      │   ├── widgets/    # Reusable UI components
-     
      │   └── shared/     # Shared UI elements (buttons, inputs)
-     
      └── main.dart       # Entry point of the application
   
-
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to improve SeKO, please follow these steps:
