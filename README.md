@@ -29,17 +29,17 @@ For Users:
 
 
 ## 🛠 Tech Stack
-      Frontend: Flutter (UI Framework)
-      
-      Language: Dart
-      
-      State Management: [e.g., Provider / Riverpod / Bloc]
-      
-      Backend: [e.g., Firebase / Supabase / REST API]
-      
-      Database: [e.g., Cloud Firestore / PostgreSQL]
-      
-      Local Storage: [e.g., Shared Preferences / Hive]
+Frontend: Flutter (UI Framework)
+
+Language: Dart
+
+State Management: [e.g., Provider / Riverpod / Bloc]
+
+Backend: [e.g., Firebase / Supabase / REST API]
+
+Database: [e.g., Cloud Firestore / PostgreSQL]
+
+Local Storage: [e.g., Shared Preferences / Hive]
 
 
 
