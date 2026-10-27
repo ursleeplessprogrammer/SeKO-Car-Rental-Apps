@@ -29,17 +29,17 @@ For Users:
 
 
 ## 🛠 Tech Stack
-Frontend: Flutter (UI Framework)
-
-Language: Dart
-
-State Management: [e.g., Provider / Riverpod / Bloc]
-
-Backend: [e.g., Firebase / Supabase / REST API]
-
-Database: [e.g., Cloud Firestore / PostgreSQL]
-
-Local Storage: [e.g., Shared Preferences / Hive]
+      Frontend: Flutter (UI Framework)
+      
+      Language: Dart
+      
+      State Management: [e.g., Provider / Riverpod / Bloc]
+      
+      Backend: [e.g., Firebase / Supabase / REST API]
+      
+      Database: [e.g., Cloud Firestore / PostgreSQL]
+      
+      Local Storage: [e.g., Shared Preferences / Hive]
 
 
 
@@ -56,11 +56,11 @@ Local Storage: [e.g., Shared Preferences / Hive]
 ## 🏁 Getting Started
 Prerequisites
 
-Flutter SDK: ^3.x.x
-
-Dart SDK: ^3.x.x
-
-An IDE (Android Studio, VS Code, or IntelliJ)
+      Flutter SDK: ^3.x.x
+      
+      Dart SDK: ^3.x.x
+      
+      An IDE (Android Studio, VS Code, or IntelliJ)
 
 # Installation
 1. **Clone the repository**
