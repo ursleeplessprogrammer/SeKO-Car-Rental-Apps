@@ -44,8 +44,9 @@ Local Storage: [e.g., Shared Preferences / Hive]
 
 
 ## 📸 Screenshots (TBA)
-Home Screen	Vehicle Details	Booking Page
-Home	Details	Booking
+<img width="375" height="812" alt="1  Halaman depan" src="https://github.com/user-attachments/assets/8738f948-e0a3-4aa9-8f7b-f73081b1fd72" />
+<img width="375" height="812" alt="2  Halaman awal" src="https://github.com/user-attachments/assets/d14a1861-eded-4b3e-b0eb-43b09926afa3" />
+
 
 
 ## 🏁 Getting Started
