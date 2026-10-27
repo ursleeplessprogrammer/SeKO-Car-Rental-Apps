@@ -62,7 +62,7 @@ Dart SDK: ^3.x.x
 
 An IDE (Android Studio, VS Code, or IntelliJ)
 
-Installation
+# Installation
 1. **Clone the repository**
 
    ```bash
