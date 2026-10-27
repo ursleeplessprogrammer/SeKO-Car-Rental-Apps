@@ -1,5 +1,10 @@
-## SeKO Rental – Vehicle Rental Application
+# SeKO Rental – Vehicle Rental Application
 SeKO (Sewa Kendaraan Online) is a mobile application built with Flutter and Dart designed to streamline the vehicle rental process. Whether users need a car for a family trip or a motorbike for a quick commute, SeKO provides a seamless interface to browse, book, and manage rentals.
+
+
+## ✨ About the Project
+
+This project was developed by me and my acquitance as part of a technopreneurship initiative back on 2023, which requires ideas capable of supporting potential business processes that could ultimately have a broad impact.
 
 
 ## 🚀 Features
